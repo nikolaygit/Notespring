@@ -1,0 +1,29 @@
+===== add Spell checking
+spell checking, a thesaurus, and auto-correction
+
+	http://code9.com/2008/10/03/tip-spellchecking-in-eclipse/
+	http://dev.eclipse.org/newslists/news.eclipse.platform.rcp/msg25846.html
+	https://bugs.eclipse.org/bugs/show_bug.cgi?id=185695
+
+
+
+===== add Calendar
+	http://www.richclient2.eu/2006_04_10/a-swt-calendar-widget/
+	http://www.jaret.de/
+
+
+===== Rich Text Editor?
+
+===== Reminders (with Sound)
+
+===== Links
+
+Link to anything! You can have links to entries in The Journal
+links to bookmarks within entries
+links to Web pages, email address, 
+files on your local computer
+
+//
+dispose any created COLORS:
+	http://www.eclipse.org/articles/Article-SWT-Color-Model/swt-color-model.htm
+
